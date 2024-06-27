@@ -8,9 +8,9 @@ layout: home
 
 ### Who am I?
 
-I am currently working as a postdoc at the Carl von Ossietzky Universität Oldenburg, in the project Morphology Materializing, funded by the DFG. The PIs of the project are Kristian Berg (Carl von Ossietzky University of Oldenburg) and Stefan Hartmann (Heinrich Heine University Düsseldorf).
+I am currently working as a postdoc at the Carl von Ossietzky University of Oldenburg, in the project Morphology Materializing, funded by the DFG. The PIs of the project are Kristian Berg (Carl von Ossietzky University of Oldenburg) and Stefan Hartmann (Heinrich Heine University Düsseldorf).
 
-From 2014 to 2024, I worked at the Heinrich-Heine-Universität Düsseldorf. First, I was a visiting fellow in the [SToRE](http://www.sfb991.uni-duesseldorf.de/en/store-graduate-training-program/) program. After that, I contributed as a postdoc to the project [A02](http://www.sfb991.uni-duesseldorf.de/en/a02/) from the CRC 991, before being part of the [TreeGraSP](https://treegrasp.phil.hhu.de/) ERC project, led by Laura Kallmeyer. 
+From 2014 to 2024, I worked at the Heinrich Heine University of Düsseldorf. First, I was a visiting fellow in the [SToRE](http://www.sfb991.uni-duesseldorf.de/en/store-graduate-training-program/) program. After that, I contributed as a postdoc to the project [A02](http://www.sfb991.uni-duesseldorf.de/en/a02/) from the CRC 991, before being part of the [TreeGraSP](https://treegrasp.phil.hhu.de/) ERC project, led by Laura Kallmeyer. 
 
 From 2010 to 2014, I was a Ph.D. student at the [LIFO](http://www.univ-orleans.fr/lifo/), in the [CA](http://www.univ-orleans.fr/lifo/Members/duchier/equipe/pmwiki/pmwiki.php) (Constraints & Machine Learning) team, under the supervision of [Denys Duchier](http://www.univ-orleans.fr/lifo/Members/duchier/) and co-supervision of [Yannick Parmentier](http://sourcesup.cru.fr/tulipa/yannick/).
 
