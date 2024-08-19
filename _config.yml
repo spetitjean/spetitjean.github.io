@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - research.markdown
   - publications.markdown
+  - teaching.markdown
   - about.markdown
 
 # Exclude from processing.

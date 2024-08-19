@@ -18,13 +18,13 @@ From 2010 to 2014, I was a Ph.D. student at the [LIFO](http://www.univ-orleans.f
 
 ### Research:
 
-My main research interests are Natural Language Processing and Constraint Solving. I am the main developer of [XMG-2](https://user.phil.hhu.de/petitjean/research/xmg-2/), a grammar engineering tool which is related to both of these interests. The aim of XMG is to let linguists build large scale precision grammars, independently from the level of linguistic description or of the formalism used to describe it.
+My main research interests are Natural Language Processing and Constraint Solving. I am the main developer of [XMG-2](https://github.com/spetitjean/XMG-2/wiki), a grammar engineering tool which is related to both of these interests. The aim of XMG is to let linguists build large scale precision grammars, independently from the level of linguistic description or of the formalism used to describe it.
 
 I also contribute to the development of the latest release of the parser TuLiPA, called [TuLiPA-frames](https://github.com/spetitjean/TuLiPA-frames).
 
 ### Teaching:
 
-I taught various courses in computer science and computational linguistics. The list is available on the [teaching page.](https://user.phil.hhu.de/petitjean/teaching/)
+I taught various courses in computer science and computational linguistics. The list is available on the [teaching page.]({% link teaching.markdown %})
 
 ### Code:
 
