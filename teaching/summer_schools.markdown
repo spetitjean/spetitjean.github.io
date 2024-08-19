@@ -6,11 +6,11 @@ permalink: /teaching/summer_schools_and_others/
 
 ### 2023:
 
-**[Tree-Adjoining Grammars: Theory and implementation]({% link esslli_2023.markdown%})** (ESSLLI 2023) with Kata Balogh
+**[Tree-Adjoining Grammars: Theory and implementation]({% link teaching/summer_schools/esslli_2023.markdown%})** (ESSLLI 2023) with Kata Balogh
 
 ### 2018:
 
-[**Language modeling with tree-adjoining grammars**]({% link nasslli_2018.markdown %}) (NASSLLI 2018) with Kata Balogh
+[**Language modeling with tree-adjoining grammars**]({% link teaching/summer_schools/nasslli_2018.markdown %}) (NASSLLI 2018) with Kata Balogh
 
 ### 2017:
 
