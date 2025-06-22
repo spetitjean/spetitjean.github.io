@@ -14,4 +14,14 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
 
 **Day 0:** [slides](/assets/pdfs/TAG_NASSLLI25_day0.pdf)
 
-**Day 1:** [slides](/assets/pdfs/TAG_NASSLLI25_day1.pdf)
+**Day 1:** Motivation & basic (L)TAG [slides](/assets/pdfs/TAG_NASSLLI25_day1.pdf)
+
+**Day 2:** Linguistic applications and using (L)TAG: syntax
+
+**Day 3 (part 1):** Linguistic applications and using (L)TAG: semantics
+
+**Day 3 (part 2):** Introduction to grammar engineering and XMG
+
+**Day 4:** Grammar implementation with XMG
+
+**Day 5:** Parsing TAG
