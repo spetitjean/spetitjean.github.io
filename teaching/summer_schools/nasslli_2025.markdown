@@ -13,3 +13,4 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
 ## Outline:
 
 **Day 0:** [slides](/assets/pdfs/TAG_NASSLLI25_day0.pdf)
+**Day 1:** [slides](/assets/pdfs/TAG_NASSLLI25_day1.pdf)
