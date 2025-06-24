@@ -16,7 +16,7 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
 
 **Day 1:** Motivation & basic (L)TAG - [slides](/assets/pdfs/TAG_NASSLLI25_day1.pdf)
 
-**Day 2:** Linguistic applications and using (L)TAG: syntax
+**Day 2:** Linguistic applications and using (L)TAG: syntax - [slides](/assets/pdfs/TAG_NASSLLI25_day2.pdf)
 
 **Day 3 (part 1):** Linguistic applications and using (L)TAG: semantics
 
