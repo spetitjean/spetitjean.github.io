@@ -24,4 +24,4 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
 
 **Day 4:** Grammar implementation with XMG - [slides](/assets/pdfs/day4.pdf) - [code](/assets/code/Session 4.zip)
 
-**Day 5:** Parsing TAG
+**Day 5:** Parsing TAG - [slides](/assets/pdfs/day5.pdf) - [code](/assets/code/Session_5.zip)
